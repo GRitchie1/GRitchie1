@@ -1,4 +1,4 @@
-### Hi I'm Gregor (He, Him)
+### Hi I'm Gregor (He/Him)
 
 I'm currently working on several personal projects but I am mainly focusing on upskilling and adding more strings to my bow to allow me to become a Software Engineer.  I'm looking for an entry-level role to allow me to use my current skills and experience, whilst learning from more senior engineers and developers.
 
