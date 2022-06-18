@@ -10,6 +10,8 @@ Projects to automate off-grid living are definitely of special interest to me!
 
 You can find me on [LinkedIn.](https://www.linkedin.com/in/gregorritchie/)
 
+Check out my [Portfolio Website!](https://gregor-ritchie.co.uk/)
+
 If I'm not at my desk I'm probably fixing my Classic VW van, or riding my motorbike.
 
 <!--
