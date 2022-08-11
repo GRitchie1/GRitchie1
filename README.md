@@ -1,8 +1,10 @@
 ### Hi I'm Gregor (He/Him)
+A self-driven, creative Junior Software Engineer with a wide variety of IT experience. Looking for a role where I can
+utilise my current skills and experience, as well as learn from more experienced developers.
 
 I'm currently working on several personal projects but I am mainly focusing on upskilling and adding more strings to my bow to allow me to become a Software Engineer.  I'm looking for an entry-level role to allow me to use my current skills and experience, whilst learning from more senior engineers and developers.
 
-I am currently doing my HND Mechatronics at City of Glasgow Colllege and working on the CodeCademy Computer Science and Full Stack Engineer Career Paths, as well as completing modules on Hack the Box Academy.  I enjoy building robots, designing PCB's and writing code.
+I am recently completed my HND Mechatronics at City of Glasgow College and I am currently working on the CodeCademy Computer Science and Full Stack Engineer Career Paths, as well as completing modules on Hack the Box Academy.  I enjoy writing code, building robots and designing PCB's.
 
 I am looking to collaborate on anything!  I would love to meet people to work on projects with.  Get in touch!  
 
