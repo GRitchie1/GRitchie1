@@ -1,7 +1,7 @@
 ### Hi I'm Gregor (He/Him)
 Junior Python Developer at TeamWeb.
 
-I am recently completed my HND Mechatronics at City of Glasgow College and I am currently working on the CodeCademy Computer Science and Full Stack Engineer Career Paths, as well as completing modules on Hack the Box Academy.  I enjoy writing code, building robots and designing PCB's.
+I recently completed my HND Mechatronics at City of Glasgow College and I am currently working on the CodeCademy Computer Science and Full Stack Engineer Career Paths, as well as completing modules on Hack the Box Academy.  I enjoy writing code, building robots and designing PCB's.
 
 I am looking to collaborate on anything!  I would love to meet people to work on projects with.  Get in touch!  
 
