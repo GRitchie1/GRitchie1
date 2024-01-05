@@ -1,17 +1,15 @@
 ### Hi I'm Gregor (He/Him)
-Junior Python Developer at TeamWeb.
+Python Developer at TeamWeb.
 
-I recently completed my HND Mechatronics at City of Glasgow College and I am currently working on the CodeCademy Computer Science and Full Stack Engineer Career Paths, as well as completing modules on Hack the Box Academy.  I enjoy writing code, building robots and designing PCB's.
+I have a HND in Mechatronics from City of Glasgow College. I enjoy writing code, building robots and other DIY projects.
 
-I am looking to collaborate on anything!  I would love to meet people to work on projects with.  Get in touch!  
-
-Projects to automate off-grid living are definitely of special interest to me!
+My current goal is to continue growing my skills and experience to grow into a Senior Developer.
 
 You can find me on [LinkedIn.](https://www.linkedin.com/in/gregorritchie/)
 
 Check out my [Portfolio Website!](https://gregor-ritchie.co.uk/)
 
-If I'm not at my desk I'm probably fixing my Classic VW van, or riding my motorbike.
+If I'm not at my desk I'm probably building something in my shed, fixing my Classic VW van, or riding my motorbike.
 
 <!--
 **GRitchie1/GRitchie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
