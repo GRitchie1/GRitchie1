@@ -1,9 +1,7 @@
 ### Hi I'm Gregor (He/Him)
-Python Developer at TeamWeb.
+Senior Python Developer at TeamWeb.
 
 I have a HND in Mechatronics from City of Glasgow College. I enjoy writing code, building robots and other DIY projects.
-
-My current goal is to continue growing my skills and experience to grow into a Senior Developer.
 
 You can find me on [LinkedIn.](https://www.linkedin.com/in/gregorritchie/)
 
