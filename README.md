@@ -5,8 +5,6 @@ I have a HND in Mechatronics from City of Glasgow College. I enjoy writing code,
 
 You can find me on [LinkedIn.](https://www.linkedin.com/in/gregorritchie/)
 
-Check out my [Portfolio Website!](https://gregor-ritchie.co.uk/)
-
 If I'm not at my desk I'm probably building something in my shed, fixing my Classic VW van, or riding my motorbike.
 
 <!--
