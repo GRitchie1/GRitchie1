@@ -1,5 +1,5 @@
 ### Hi I'm Gregor (He/Him)
-Senior Python Developer at TeamWeb.
+Senior Python Developer at Tour Amigo.
 
 I have a HND in Mechatronics from City of Glasgow College. I enjoy writing code, building robots and other DIY projects.
 
